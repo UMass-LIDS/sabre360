@@ -1,0 +1,15 @@
+{
+    "tiles_x": 4,
+    "tiles_y": 4,
+    "fov_x_degrees": 100,
+    "fov_y_degrees": 100,
+    "segment_ms": 1000,
+    "_comment_x_y_": "x is 0 at left, y is 0 at top",
+    "_comment_tile_0_": "x is 0 or tiles_x-1, y is 0 or tiles_y-1",
+    "_comment_tile_1_": "one of x, y must match tile_0, other must have offset 1",
+    "_comment_bit_1_is_tile_0_": "true if 0x0001 represents tile_0, otherwise it represents last tile",
+    "_comment_tile_0_tile_1_bit_1_": "ignored if tiles_x is 1 and tiles_y is 1",
+    "tile_0": {"x": 0, "y": 0},
+    "tile_1": {"x": 0, "y": 1},
+    "bit_1_is_tile_0": false
+}

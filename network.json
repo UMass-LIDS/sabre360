@@ -1,0 +1,6 @@
+[
+    {"duration_ms": 30000, "bandwidth_kbps": 5000, "latency_ms": 5},
+    {"duration_ms": 30000, "bandwidth_kbps": 3000, "latency_ms": 5},
+    {"duration_ms": 30000, "bandwidth_kbps": 15000, "latency_ms": 5},
+    {"duration_ms": 30000, "bandwidth_kbps": 30000, "latency_ms": 5}
+]
